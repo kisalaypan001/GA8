@@ -38,7 +38,6 @@
         "id": "KKfktXcbozjL",
         "outputId": "be819bfc-d824-45d0-fb77-55850490c923"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",

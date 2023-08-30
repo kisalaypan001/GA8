@@ -85,7 +85,6 @@
         "id": "HIUIl0_Po_g_",
         "outputId": "6a30ffcc-903a-4889-bab7-3e81327d1aa7"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
